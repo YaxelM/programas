@@ -1,5 +1,6 @@
 #include iostream
 using namespace std;
-int main
-print "hola mundo"
+int main (){
+cout<< "hola universidad"
+  }
   return 0;
